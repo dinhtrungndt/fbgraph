@@ -1,6 +1,6 @@
 # Stay Classy, Facebook
 
-[FBgraph](http://criso.github.com/fbgraph/) is a nodejs module that provides easy access to the facebook graph api
+[FBgraph](http://criso.github.io/fbgraph/) is a nodejs module that provides easy access to the facebook graph api
 
 [![npm downloads](https://img.shields.io/npm/dm/fbgraph.svg?style=flat-square)](https://www.npmjs.com/package/fbgraph)
 
